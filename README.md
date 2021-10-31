@@ -11,8 +11,8 @@ Outside of software, I enjoy...
 
 ### Connect with Me
 
-* [LinkedIn](www.linkedin.com/in/marissachristenson)
-* [Twitter](twitter.com/imarissac)
+* [LinkedIn](https://www.linkedin.com/in/marissachristenson/)
+* [Twitter](https://twitter.com/iMarissaC)
 
 ###### View some of my code while you're here!
 
